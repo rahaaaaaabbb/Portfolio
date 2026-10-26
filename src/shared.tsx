@@ -61,7 +61,7 @@ export const PHOTOS: Record<string, string> = {
   who: "who01.png",
   work0:"Work01.png", work1: "Work02.png", work2: "Work03.png", work3: "Work04.png", work4: "Work05.png",
   /* screenshot detail project: id "work0-s0", "work0-s1", ... mis. "work0-s0": "ugc-1.png" */
-  edu0: "edu1.png", edu2: "edu2.jpg",
+  edu0: "edu1.png", edu1: "edu2.jpg",
 };
 
 /* Animasi selalu berjalan, termasuk di perangkat yang mematikan animasi.
